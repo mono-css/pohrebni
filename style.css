@@ -1,1 +1,15 @@
 p::first-letter{color: red;}
+
+.nejakejpruhnebotakneco{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.vecicky{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
